@@ -15,7 +15,7 @@ section.home{
     display: flex;  
     justify-content: center;
     align-items: center;
-    background-image: url(/healthfood/img/jannis-brandt-mmsQUgMLqUo-unsplash.jpg);
+    background-image: url(/img/jannis-brandt-mmsQUgMLqUo-unsplash.jpg);
     background-size: cover;
     background-position: center;
     object-fit: cover;
